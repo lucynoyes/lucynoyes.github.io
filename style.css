@@ -27,3 +27,8 @@ p {
   h2.destination {
     font-family: cursive;
   }
+
+  img {
+      max-width: 100%;
+      height: auto;
+  }

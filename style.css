@@ -32,3 +32,8 @@ p {
       max-width: 100%;
       height: auto;
   }
+
+  div {
+    background-color: rgb(165, 214, 165);
+    opacity: 0.3;
+  }
